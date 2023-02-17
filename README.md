@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Tistory?style=for-the-badge&logo=Tistory&logoColor=white">
+<a href="https://sectumsempra.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Python?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
 
 ![kite707's GitHub stats](https://github-readme-stats.vercel.app/api?username=kite707&show_icons=true&theme=radical)
