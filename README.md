@@ -1,9 +1,13 @@
-## Contact
-<a href="https://sectumsempra.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=White"/></a>
-<a href="https://www.linkedin.com/in/hyeyeonkang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+
 
 
 ![kite707's GitHub stats](https://github-readme-stats.vercel.app/api?username=kite707&show_icons=true&theme=radical)
+
+
+## Contact
+<a href="https://sectumsempra.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=White"/></a>
+<a href="https://www.linkedin.com/in/hyeyeonkang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="kite707707@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!--
 **kite707/kite707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
