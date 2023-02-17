@@ -1,7 +1,7 @@
 
 
 
-![kite707's GitHub stats](https://github-readme-stats.vercel.app/api?username=kite707&show_icons=true&theme=radical)
+![kite707's GitHub stats](https://github-readme-stats.vercel.app/api?username=kite707&show_icons=true)
 
 
 ## Contact
