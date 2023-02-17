@@ -5,7 +5,7 @@
 
 
 ## Contact
-<a href="https://sectumsempra.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF7417?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://sectumsempra.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF7317?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hyeyeonkang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="kite707707@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!--
