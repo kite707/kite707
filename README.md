@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<a href="https://sectumsempra.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=White"/></a>
 
 
 ![kite707's GitHub stats](https://github-readme-stats.vercel.app/api?username=kite707&show_icons=true&theme=radical)
