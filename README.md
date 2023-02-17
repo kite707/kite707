@@ -1,4 +1,6 @@
+## Contact
 <a href="https://sectumsempra.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=White"/></a>
+<a href="https://www.linkedin.com/in/hyeyeonkang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 
 ![kite707's GitHub stats](https://github-readme-stats.vercel.app/api?username=kite707&show_icons=true&theme=radical)
