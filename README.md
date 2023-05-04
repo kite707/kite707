@@ -1,9 +1,8 @@
-
-<div style="display: flex; flex-direction: row; justify-content: center;">
+## Stats
+<div style="display: flex; justify-content: center; text-align: center">
   
- <img class="img" style="margin-right: 30px" src="https://github-readme-stats.vercel.app/api?username=kite707&show_icons=true&theme=radical" />
+<img class="img" style="margin-right: 30px" src="https://github-readme-stats.vercel.app/api?username=kite707&show_icons=true&theme=radical" />
   
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kite707&theme=radical&layout=compact" />
   
 </div>
 
@@ -14,7 +13,7 @@
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kite707707@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ## Language
-
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kite707&theme=radical&layout=compact" />
 
 <!--
 **kite707/kite707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
