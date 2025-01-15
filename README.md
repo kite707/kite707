@@ -13,7 +13,7 @@
 ## | Personal Experience
 - SW Maestro 14th, 15th expert (2023.04 ~ 2024.08)
 - SW Maestro 13th (2022.04 ~ 2022.12)
-- UMC Spring Boot Part 2021.09 ~ 2022.02)
+- UMC Spring Boot Part (2021.09 ~ 2022.02)
 
 <br> 
 
