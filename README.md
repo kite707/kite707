@@ -5,7 +5,7 @@
 <br> 
 
 ## | Work Experience
-- KT DS Backend Engineer(2024.07.01 ~ present)
+- KT DS SW Engineer(2024.07.01 ~ present)
 - Blockwave Labs Backend Engineer(2023.02 ~ 2023.08)
 
 <br> 
