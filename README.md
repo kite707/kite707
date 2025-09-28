@@ -19,6 +19,8 @@
 
 ## | Certification
 <a href="https://www.credly.com/badges/af627d9c-f62a-4f5d-aac6-a211fa0fb2b6/public_url"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width=180></a>
+<a href="https://www.credly.com/badges/c0e1a4d9-ad1b-41bc-afbc-1f4b0b98ff39/public_url"><img src="https://images.credly.com/size/220x220/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width=180></a>
+
 
 <br> 
 
