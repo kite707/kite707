@@ -1,6 +1,6 @@
 ## | Introduction
 - I'm a **backend developer** with a keen interest in cloud architecture.
-- I strive to grow and improve myself every day. (24.12.24 ~ 🔥)
+- I strive to grow and improve myself every day.
 
 <br> 
 
